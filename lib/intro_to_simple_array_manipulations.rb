@@ -39,7 +39,7 @@ def using_insert(invitation, make_me)
 end
 
 def using_uniq(womanizer, circus, circus)
-  womanizer.uniq(circus)
+  womanizer.uniq
 end
 
   
