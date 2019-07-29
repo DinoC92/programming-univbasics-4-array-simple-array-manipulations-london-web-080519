@@ -45,4 +45,7 @@ end
 def using_flatten(all_that)
   all_that.flatten
 end
-  
+
+def using_delete(perfect, forgiven)
+  perfect.delete
+end
