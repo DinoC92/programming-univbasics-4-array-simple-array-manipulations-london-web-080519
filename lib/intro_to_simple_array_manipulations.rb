@@ -52,4 +52,4 @@ end
 
 def using_delete_at(rocket, robocop)
   rocket.delete(1)
-end 
+end  
