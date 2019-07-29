@@ -38,7 +38,7 @@ def using_insert(invitation, make_me)
   invitation.insert(4, "Python")
 end
 
-def using_uniq(womanizer, circus)
+def using_uniq(womanizer)
   womanizer.uniq
 end
 
