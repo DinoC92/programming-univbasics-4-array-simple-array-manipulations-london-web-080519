@@ -50,6 +50,6 @@ def using_delete(perfect, wake_up)
   perfect.delete(wake_up)
 end
 
-def using_delete_at(rocket, blow)
+def using_delete_at(rocket, blow, robocop)
   rocket.delete(2)
 end 
