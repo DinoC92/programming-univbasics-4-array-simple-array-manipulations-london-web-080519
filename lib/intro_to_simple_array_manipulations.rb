@@ -51,5 +51,5 @@ def using_delete(perfect, wake_up)
 end
 
 def using_delete_at(rocket, haunted)
-  rocket.delete(3)
+  rocket.delete(1)
 end 
