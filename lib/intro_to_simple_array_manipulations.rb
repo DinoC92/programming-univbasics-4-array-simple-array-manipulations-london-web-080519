@@ -52,4 +52,4 @@ end
 
 def using_delete_at(famous_robots, dino)
   famous_robots.delete(1)
-end
+end 
