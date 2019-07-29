@@ -34,6 +34,6 @@ def using_concat(array1, array2)
 array1.concat(array2)
 end
 
-def using_insert(invitation, make_me)
+def using_insert(invitation, make_me, slumber_party)
   invitation.insert(4, clumsy)
 end
