@@ -50,6 +50,6 @@ def using_delete(perfect, wake_up)
   perfect.delete(wake_up)
 end
 
-def using_delete_at(famous_robots, 1)
+def using_delete_at(famous_robots, word)
   famous_robots.delete_at(1)
 end
