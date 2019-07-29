@@ -42,7 +42,7 @@ def using_uniq(womanizer)
   womanizer.uniq
 end
 
-def using_flattern(all_that(gimme_love))
+def using_flattern(all_that)
   all_that.flattern
 end
   
