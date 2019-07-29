@@ -51,5 +51,5 @@ def using_delete(perfect, wake_up)
 end
 
 def using_delete_at(famous_robots, word)
-  famous_robots.delete_at(1)
+  famous_robots.delete_at(2)
 end
