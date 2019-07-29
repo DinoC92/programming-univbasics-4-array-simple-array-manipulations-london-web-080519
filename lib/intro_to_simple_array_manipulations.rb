@@ -47,5 +47,5 @@ def using_flatten(all_that)
 end
 
 def using_delete(perfect, wake_up)
-  perfect.delete(perfect, "forgiven")
+  perfect.delete(perfect)
 end
