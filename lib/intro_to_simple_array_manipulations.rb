@@ -52,4 +52,4 @@ end
 
 def using_delete_at(rocket)
   rocket.delete(3)
-end
+end 
