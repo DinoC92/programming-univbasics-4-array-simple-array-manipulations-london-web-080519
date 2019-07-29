@@ -35,5 +35,5 @@ array1.concat(array2)
 end
 
 def using_insert(invitation, make_me)
-  invitation.insert(4, clumsy)
+  make_me.insert(4, clumsy)
 end
